@@ -14,7 +14,7 @@ import com.flag.app.Entity.Welcome;
 public class FastJsonMain {
 
 	static String json = "{\"study\": 10,\"study_course_count\": 10, \"recieved_reg_form_count\": 0,\"unread_count\": 5,\"teach_course_count\": 8,\"avatar\": \"1316634098115-02-57\",\"user_id\": 201,\"nickname\": \"Asus人名\"}";
-	static String arrayAyy="[[14,\"小学语文\"],[154,\"美食\"],[72,\"高中物理\"],null,[50,\"高中化学\"],[15,\"小学数学\"],[13\"英语\"],null,[1,\"其他英语培训\"],null]";
+	static String arrayAyy="[[14,\"小学语文\"],[155,\"美食\"],[72,\"高中物理\"],null,[50,\"高中化学\"],[15,\"小学数学\"],[13\"英语\"],null,[1,\"其他英语培训\"],null]";
 	
 			
 	
