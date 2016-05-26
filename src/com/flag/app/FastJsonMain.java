@@ -124,7 +124,7 @@ public class FastJsonMain {
       } 
 	 
 	 /**
-	   * 数组 到 json
+	   * 数组到json
 	   */
 	 public void array2JSON2(){ 
 		 Welcome[] arr_Bar = {new Welcome(),new Welcome(),new Welcome()}; 
